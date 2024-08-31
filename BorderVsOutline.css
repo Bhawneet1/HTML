@@ -1,0 +1,6 @@
+p {
+    color: white;
+    background-color: rgb(4, 79, 17);
+    border: 10px solid rgba(255, 255, 255, 0.5);
+    outline: 10px solid yellow;
+}

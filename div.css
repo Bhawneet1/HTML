@@ -1,0 +1,12 @@
+div {
+    background-color: aquamarine;
+    color: brown;
+}
+
+.demo {
+    background-image: url('R.jpg');
+    width: 50%;
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

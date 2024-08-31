@@ -1,0 +1,33 @@
+h1 {
+    color: blue;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: 2px 2px 5px hotpink;
+}
+
+.container {
+    margin: 0px 500px;
+    width: 500px;
+    text-align: center;
+    background-color: aquamarine;
+    font-weight: 700;
+    text-decoration: black underline;
+    font-size: 12px;
+    text-indent: 10px;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+}
+
+h1:hover {
+    color: hotpink;
+    text-shadow: 2px 2px 5px blue;
+    cursor: pointer;
+    transition: 3s;
+}
+
+p:hover {
+    font-size: 20px;
+    font-weight: 900;
+    transition: 3s;
+    cursor: pointer;
+}

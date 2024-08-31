@@ -1,0 +1,16 @@
+h1 {
+    color: blueviolet;
+}
+
+.btn {
+    color: rgba(10, 20, 30, 0.5);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+a {
+    color: brown;
+}
+
+* {
+    background-image: url('nat.jpg');
+}

@@ -1,0 +1,35 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    box-shadow: 5px 5px 10px black;
+    margin: auto;
+}
+
+th,
+td {
+    border-bottom: 2px solid black;
+    padding: 5px;
+    /* height: 70px;
+    vertical-align: bottom; */
+}
+
+th {
+    background-color: green;
+    color: white;
+}
+
+tr:hover {
+    background-color: #333;
+    color: wheat;
+    transition: 0.5s;
+}
+
+tr:active {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+tr:nth-child(even) {
+    background-color: #eee;
+}

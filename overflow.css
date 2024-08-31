@@ -1,0 +1,8 @@
+        .container {
+            width: 200px;
+            height: 250px;
+            background-color: aqua;
+            /* overflow: hidden; */
+            /* overflow: scroll;*/
+            overflow-x: scroll;
+        }

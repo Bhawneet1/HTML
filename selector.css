@@ -1,0 +1,19 @@
+/* har ik h1 kai liyai */
+
+h1 {
+    color: white;
+    background-color: blue;
+}
+
+
+/* id hamesha unique hoti hai and ik hi h1 pai lagai gi */
+
+#first {
+    color: black;
+    background-color: aqua;
+}
+
+.testColor {
+    color: red;
+    background-color: azure;
+}
